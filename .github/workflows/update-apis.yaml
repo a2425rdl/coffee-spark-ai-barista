@@ -3,10 +3,10 @@ on:
     - cron: "0 1 * * *"
   workflow_dispatch:
 
-jobs:help/settings/payment-info-link.png)https://developer.apple.com/forums/thread/757474</
-  update-apis:
+jobs:help/settings/payment-info-link.png)https://developer.apple.com/forums/thread/757474</https://coffee-spark-ai-barista-7ae91.web.app/
+  update-apis: cloud 
     runs-on: ubuntu-latest
-    steps:            - name: Setup Node.js environment
+    steps:            - cl: Setup Node.js environment
   uses: actions/setup-node@v4.0.2
   with:
     # Set always-auth in npmrc.
